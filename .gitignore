@@ -1,0 +1,58 @@
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Rider settings
+.idea/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Ignore dotnet CLI working folder
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore logs
+*.log
+
+# Ignore test results
+TestResults/
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore compiled DLLs or EXEs
+*.dll
+*.exe
+
+# Ignore publish folder
+publish/
+
+# Ignore secrets and configuration
+secrets.json
+appsettings.Development.json
+
+# Ignore coverage results
+coverage/
+*.coverage
+*.coveragexml
+
+# Optional: Ignore ReSharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Optional: Ignore Mac system files
+.DS_Store
