@@ -1,7 +1,11 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9A0174-7587-4F71-9658-E7BDF9D298CA}|..\\BookStore.Order.UnitTest\\BookStore.Order.UnitTest.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +13,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\BookStore.Order.UnitTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\BookStore.Order.UnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:40:05.508Z",
+              "EditorCaption": ""
             }
           ]
         }
