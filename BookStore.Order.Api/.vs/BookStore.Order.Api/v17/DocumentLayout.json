@@ -3,7 +3,56 @@
   "WorkspaceRootPath": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D9A0174-7587-4F71-9658-E7BDF9D298CA}|..\\BookStore.Order.UnitTest\\BookStore.Order.UnitTest.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.api\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|solutionrelative:service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.api\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|solutionrelative:repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.api\\logic\\query\\getordersbyuseridquesy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|solutionrelative:logic\\query\\getordersbyuseridquesy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.api\\logic\\command\\addnewordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|solutionrelative:logic\\command\\addnewordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.api\\service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|solutionrelative:service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.api\\logic\\query\\getallordersquesy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|solutionrelative:logic\\query\\getallordersquesy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.api\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|solutionrelative:repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.api\\repository\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|solutionrelative:repository\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.api\\domain\\model\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|solutionrelative:domain\\model\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.api\\domain\\model\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|solutionrelative:domain\\model\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|d:\\projects\\bookstore\\api\\bookstore.order\\bookstore.order.api\\domain\\model\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5850C-D7F5-42D4-A6DF-AEC2E9EED1D1}|BookStore.Order.Api.csproj|solutionrelative:domain\\model\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -21,15 +70,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.UnitTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\BookStore.Order.UnitTest\\UnitTest1.cs",
-              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.UnitTest\\UnitTest1.cs",
-              "RelativeToolTip": "..\\BookStore.Order.UnitTest\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswCEAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T13:40:05.508Z",
+              "WhenOpened": "2025-08-08T00:52:47.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddNewOrderCommand.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Logic\\Command\\AddNewOrderCommand.cs",
+              "RelativeDocumentMoniker": "Logic\\Command\\AddNewOrderCommand.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Logic\\Command\\AddNewOrderCommand.cs",
+              "RelativeToolTip": "Logic\\Command\\AddNewOrderCommand.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:41:14.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "Service\\OrderService.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Service\\OrderService.cs",
+              "RelativeToolTip": "Service\\OrderService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:18:33.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Service\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Service\\IOrderService.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Service\\IOrderService.cs",
+              "RelativeToolTip": "Service\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:18:16.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IOrderRepository.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "Repository\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:07:36.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderRepository.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Repository\\OrderRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:09:49.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetOrdersByUserIdQuesy.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Logic\\Query\\GetOrdersByUserIdQuesy.cs",
+              "RelativeDocumentMoniker": "Logic\\Query\\GetOrdersByUserIdQuesy.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Logic\\Query\\GetOrdersByUserIdQuesy.cs",
+              "RelativeToolTip": "Logic\\Query\\GetOrdersByUserIdQuesy.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:33:47.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T01:02:45.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Domain\\Model\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\OrderModel.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Domain\\Model\\OrderModel.cs",
+              "RelativeToolTip": "Domain\\Model\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:03:23.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderList.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Repository\\OrderList.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderList.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Repository\\OrderList.cs",
+              "RelativeToolTip": "Repository\\OrderList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:05:30.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllOrdersQuesy.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Logic\\Query\\GetAllOrdersQuesy.cs",
+              "RelativeDocumentMoniker": "Logic\\Query\\GetAllOrdersQuesy.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Logic\\Query\\GetAllOrdersQuesy.cs",
+              "RelativeToolTip": "Logic\\Query\\GetAllOrdersQuesy.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:21:22.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Domain\\Model\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\OrderRequest.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Domain\\Model\\OrderRequest.cs",
+              "RelativeToolTip": "Domain\\Model\\OrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:39:47.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Domain\\Model\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\OrderResponse.cs",
+              "ToolTip": "D:\\Projects\\BookStore\\API\\BookStore.Order\\BookStore.Order.Api\\Domain\\Model\\OrderResponse.cs",
+              "RelativeToolTip": "Domain\\Model\\OrderResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:03:36.583Z",
               "EditorCaption": ""
             }
           ]
